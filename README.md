@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
