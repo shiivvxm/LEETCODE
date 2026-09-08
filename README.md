@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/shiivvxm/LEETCODE/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
