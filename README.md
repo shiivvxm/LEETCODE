@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shiivvxm/LEETCODE/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shiivvxm/LEETCODE/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
