@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shiivvxm/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shiivvxm/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shiivvxm/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
