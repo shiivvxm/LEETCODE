@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shiivvxm/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
 | [0836-rectangle-overlap](https://github.com/shiivvxm/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [3870-count-commas-in-range](https://github.com/shiivvxm/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shiivvxm/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
