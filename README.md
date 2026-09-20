@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/shiivvxm/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/shiivvxm/LEETCODE/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/shiivvxm/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [3870-count-commas-in-range](https://github.com/shiivvxm/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shiivvxm/LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shiivvxm/LEETCODE/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shiivvxm/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
