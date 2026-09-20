@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/shiivvxm/LEETCODE/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
