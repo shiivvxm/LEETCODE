@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
