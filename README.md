@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shiivvxm/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/shiivvxm/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shiivvxm/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shiivvxm/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shiivvxm/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/shiivvxm/LEETCODE/tree/master/0709-to-lower-case) |
