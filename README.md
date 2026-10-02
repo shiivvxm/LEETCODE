@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shiivvxm/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shiivvxm/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shiivvxm/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shiivvxm/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shiivvxm/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shiivvxm/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
