@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shiivvxm/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shiivvxm/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shiivvxm/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shiivvxm/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shiivvxm/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shiivvxm/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -179,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shiivvxm/LEETCODE/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvxm/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
