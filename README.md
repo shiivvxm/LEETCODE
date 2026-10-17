@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiivvxm/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shiivvxm/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiivvxm/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
 | ------- |
