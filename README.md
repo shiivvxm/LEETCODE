@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
@@ -136,12 +138,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shiivvxm/LEETCODE/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -225,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
