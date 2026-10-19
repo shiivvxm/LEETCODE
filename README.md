@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiivvxm/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shiivvxm/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shiivvxm/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shiivvxm/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shiivvxm/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shiivvxm/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shiivvxm/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shiivvxm/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
