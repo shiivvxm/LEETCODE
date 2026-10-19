@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shiivvxm/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0836-rectangle-overlap](https://github.com/shiivvxm/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [2235-add-two-integers](https://github.com/shiivvxm/LEETCODE/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shiivvxm/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/shiivvxm/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shiivvxm/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
