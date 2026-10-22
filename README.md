@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiivvxm/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/shiivvxm/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/shiivvxm/LEETCODE/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/shiivvxm/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shiivvxm/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/shiivvxm/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiivvxm/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/shiivvxm/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
