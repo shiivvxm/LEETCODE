@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shiivvxm/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiivvxm/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiivvxm/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shiivvxm/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shiivvxm/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shiivvxm/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiivvxm/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shiivvxm/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shiivvxm/LEETCODE/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shiivvxm/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shiivvxm/LEETCODE/tree/master/0051-n-queens) |
+| [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 ## Algorithm X
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiivvxm/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
