@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/shiivvxm/LEETCODE/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/shiivvxm/LEETCODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/shiivvxm/LEETCODE/tree/master/0706-design-hashmap) |
+| [0746-min-cost-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shiivvxm/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/shiivvxm/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shiivvxm/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiivvxm/LEETCODE/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 ## String Matching
 |  |
