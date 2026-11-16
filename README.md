@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shiivvxm/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvxm/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiivvxm/LEETCODE/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shiivvxm/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shiivvxm/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shiivvxm/LEETCODE/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shiivvxm/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shiivvxm/LEETCODE/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shiivvxm/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/shiivvxm/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shiivvxm/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
