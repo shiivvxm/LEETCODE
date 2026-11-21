@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiivvxm/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiivvxm/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiivvxm/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiivvxm/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiivvxm/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shiivvxm/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shiivvxm/LEETCODE/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shiivvxm/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
